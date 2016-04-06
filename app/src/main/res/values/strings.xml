@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Internet of Things</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="devices_discovered">Discovered Devices</string>
+    <string name="lorem_ipsum"> The Internet will disappear.
+        There will be so many IP addresses, so many devices, sensors, things that you are wearing, things that you are interacting with, that you wont even sense it.
+        It will be part of your presence all the time. Imagine you walk into a room, and the room is dynamic.
+        And with your permission and all of that, you are interacting with the things going on in the room. </string>
+    <string name="menu_settings">Settings</string>
+    <string name="quote">If you think that the internet has changed your life, think again. The IoT is about to change it all over again!</string>
+    <string name="Sensor1">Sensor 1</string>
+    <string name="Sensor2">Sensor 2</string>
+    <string name="Sensor3">Sensor 3</string>
+    <string name="MainPic">MainPic</string>
+</resources>
