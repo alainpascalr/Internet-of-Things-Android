@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_cbe9335c9e95911895634555763f05c71123fa4f.jar" />
+    </item>
+    <item
+        jar="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_dc177a4ddbdc5b1fc7ac83b954506c7028a426bf.jar" />
+    </item>
+    <item
+        jar="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_0e13b25d61c1cfe773e2f078ebba7495f9bbd06c.jar" />
+    </item>
+    <item
+        jar="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_d28fc9a6e2281ed1d47a9e7516380655ffb433a1.jar" />
+    </item>
+    <item
+        jar="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_6c7f2700e3fe355cd0bac1d622c66e1ea5e9d949.jar" />
+    </item>
+    <item
+        jar="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.0.0_af70f14c3eefd58442926a9a1db096c1f3a3f611.jar" />
+    </item>
+    <item
+        jar="/Users/HamidHabib/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_63d880b01bd9ebbc9c01f3219323ee68058bdd8b.jar" />
+    </item>
+    <item
+        jar="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/HamidHabib/Desktop/InternetofThings/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.0_d7c04f3b8f0e89763ff7d7dca9f62b854c5b9850.jar" />
+    </item>
+
+</items>
